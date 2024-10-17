@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Finance",
+    "description": "Finance refers to monetary resources and to the study and discipline of money, currency, assets and liabilities.As a subject of study, it is related to but distinct from economics, which is the study of the production, distribution, and consumption of goods and services.Based on the scope of financial activities in financial systems, the discipline can be divided into personal, corporate, and public finance."
+  },
+
+  {
+    "id": 2,
+    "name": "Marketing",
+    "description": "Marketing is the act of satisfying and retaining customers.It is one of the primary components of business management and commerce. Marketing is typically conducted by the seller, typically a retailer or manufacturer. Products can be marketed to other businesses (B2B) or directly to consumers."
+  },
+
+  {
+    "id": 3,
+    "name": "Sales",
+    "description": "Sales are activities related to selling or the number of goods sold in a given targeted time period. The delivery of a service for a cost is also considered a sale. A period during which goods are sold for a reduced price may also be referred to as a sale."
+  },
+
+  {
+    "id": 4,
+    "name": "Engineering",
+    "description": "Engineering is the practice of using natural science, mathematics, and the engineering design process to solve technical problems, increase efficiency and productivity, and improve systems. Modern engineering comprises many subfields which include designing and improving infrastructure, machinery, vehicles, electronics,materials, and energy systems."
+  },
+
+  {
+    "id": 5,
+    "name": "HR",
+    "description": "Human resources (HR) is the set of people who make up the workforce of an organization, business sector, industry, or economy. A narrower concept is human capital,the knowledge and skills which the individuals command.Similar terms include manpower, labor, labor-power, or personnel."
+  }
+]

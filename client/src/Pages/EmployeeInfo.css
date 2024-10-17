@@ -1,0 +1,6 @@
+.search-input::placeholder {
+  color: #aaa !important; /* Lighter color for faint effect */
+  font-size: 13px !important; /* Smaller font size for placeholder */
+  font-weight: 300 !important; /* Optional: make the text thinner */
+  padding-left: 5px;
+}

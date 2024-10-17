@@ -1,0 +1,13 @@
+/* .card-f1 {
+  padding-top: -15px;
+}
+.card {
+  background-color: red;
+} */
+
+.card-header {
+  border-bottom: 0 !important;
+}
+.card-footer {
+  border-top: 0 !important;
+}
